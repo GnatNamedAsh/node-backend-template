@@ -1,0 +1,29 @@
+{
+  "name": "backend-templates",
+  "version": "0.0.1",
+  "description": "templates for node express projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GnatNamedAsh/node-backend-templates.git"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "nodejs",
+    "templates"
+  ],
+  "author": "GnatNamedAsh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GnatNamedAsh/node-backend-templates/issues"
+  },
+  "homepage": "https://github.com/GnatNamedAsh/node-backend-templates#readme",
+  "dependencies": {
+    "@types/express": "^4.17.6",
+    "express": "^4.17.1"
+  }
+}
