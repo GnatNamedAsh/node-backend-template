@@ -8,7 +8,7 @@ We all know how ugly JS can get if one doesn't pay attention.
 
 ## Design approach
 
-I won't strictly be following OOP/OOD guidelines. I currently don't write code that way at my job, and there's something liberating about it.
+I won't strictly be following OOP/OOD guidelines. I currently don't write personal projects that, and there's something liberating about it.
 
 All that being said, there's no guarantee that you won't see a `class` keyword here or there. This is mostly a template of items to make starting up personal projects that much easier. Express endpoint controllers/middleware tend to be "here's a function that handles these endpoints" versus "here's an object that handles these endpoints" from my own experience dealing with it, so this being my collection of templates, I guess that means it's also opinionated. Oh well. 🤷
 
